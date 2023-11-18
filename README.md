@@ -1,5 +1,5 @@
 # Nextjs-clean-Snipets
-Snipets propositivos para Next.js de até três caracteres.
+Snipets propositivos de até três caracteres para Next.js.
 -----------------------------------------------------------------------------
 ## Pricípios
 1. Suportar TypeScript e JavaScript;
