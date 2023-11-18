@@ -11,43 +11,43 @@ Snipetspropositivos para Next.js de até três caracteres.
 ## FUNÇÕES
 
 ### Desenvolvimento
-* trfed:   typescript react function export default
-* trfedp:  typescript react function export default props
-* trfedpi: typescript react function export default props interface
-* trafed:   typescript react arrow function export default
-* trafedp:  typescript react arrow function export default props
-* trafedpi: typescript react arrow function export default props interface
+* trfed - typescript react function export default
+* trfedp - typescript react function export default props
+* trfedpi - typescript react function export default props interface
+* trafed - typescript react arrow function export default
+* trafedp - typescript react arrow function export default props
+* trafedpi - typescript react arrow function export default props interface
 
 ### Proposta
-* rf:  typescript react function export default
-* rfp: typescript react function export default props
-* rfi: typescript react function export default props interface
-* ra:  typescript react arrow function export default
-* rap: typescript react arrow function export default props
-* rai: typescript react arrow function export default props interface
+* rf - typescript react function export default
+* rfp - typescript react function export default props
+* rfi - typescript react function export default props interface
+* ra - typescript react arrow function export default
+* rap - typescript react arrow function export default props
+* rai - typescript react arrow function export default props interface
 
 -----------------------------------------------------------------------------
 ## HOOKS
 
 ### Hooks Básicos
-* us: useState
-* ue: useEffect
-* uc: useContext
+* us - useState
+* ue - useEffect
+* uc - useContext
 
 ### Hooks Adicionais
-* urd: useReducer
-* ucl: useCallback
-* umo: useMemo
-* urf: useRef
-* uih: useImperativeHandle
-* ule: useLayoutEffect
-* ubv: useDebugValue
-* ufv: useDeferredValue
-* utt: useTransition
-* uid: useId
+* urd - useReducer
+* ucl - useCallback
+* umo - useMemo
+* urf - useRef
+* uih - useImperativeHandle
+* ule - useLayoutEffect
+* ubv - useDebugValue
+* ufv - useDeferredValue
+* utt - useTransition
+* uid - useId
 
 ### Library Hooks
-* use: useSyncExternalStore
-* uie: useInsertionEffect
+* use - useSyncExternalStore
+* uie - useInsertionEffect
 
 -----------------------------------------------------------------------------
