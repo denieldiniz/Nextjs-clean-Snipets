@@ -14,6 +14,7 @@ Snipetspropositivos para Next.js de até três caracteres.
 * trfed - typescript react function export default
 * trfedp - typescript react function export default props
 * trfedpi - typescript react function export default props interface
+  
 * trafed - typescript react arrow function export default
 * trafedp - typescript react arrow function export default props
 * trafedpi - typescript react arrow function export default props interface
@@ -22,6 +23,7 @@ Snipetspropositivos para Next.js de até três caracteres.
 * rf - typescript react function export default
 * rfp - typescript react function export default props
 * rfi - typescript react function export default props interface
+  
 * ra - typescript react arrow function export default
 * rap - typescript react arrow function export default props
 * rai - typescript react arrow function export default props interface
