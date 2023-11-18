@@ -5,7 +5,7 @@ Snipetspropositivos para Next.js de até três caracteres.
 1. Suportar TypeScript e JavaScript;
 2. Atalhos de até 3 (três) caracteres;
 3. Requisitos prescedentes suprimidos; //Ex. "arrow" é obviamente uma "function", então, não precisa dizer que é uma função.
-4. Propositivo: Incremental Static Generation (getStaticProps, getServerSideProps e getStaticPaths)
+4. Propositivo: Incremental Static Generation (getStaticProps / getServerSideProps / getStaticPaths)
 
 -----------------------------------------------------------------------------
 ## FUNÇÕES
